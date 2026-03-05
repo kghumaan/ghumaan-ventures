@@ -1,12 +1,12 @@
 "use client";
 
 import { useState, useEffect } from "react";
+import Image from "next/image";
 
 const navItems = [
   { label: "About", href: "#about" },
   { label: "Services", href: "#services" },
   { label: "Experience", href: "#experience" },
-  { label: "Projects", href: "#projects" },
 ];
 
 const socials = [
@@ -96,6 +96,16 @@ export default function LeftColumn() {
   return (
     <header className="lg:sticky lg:top-0 lg:flex lg:max-h-screen lg:w-[48%] lg:flex-col lg:justify-between lg:py-24">
       <div>
+        <div className="relative z-40 mb-6 h-40 w-40">
+          <Image
+            src="/headshot.jpg"
+            alt="KV Ghumaan"
+            width={160}
+            height={160}
+            className="rounded-full"
+            priority
+          />
+        </div>
         <h1 className="text-4xl font-bold tracking-tight text-slate-200 sm:text-5xl">
           <a href="/">KV Ghumaan</a>
         </h1>
