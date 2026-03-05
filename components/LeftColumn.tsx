@@ -95,7 +95,7 @@ export default function LeftColumn() {
 
   return (
     <header className="lg:sticky lg:top-0 lg:flex lg:max-h-screen lg:w-[48%] lg:flex-col lg:justify-between lg:py-24">
-      <div>
+      <div className="flex flex-col items-center text-center lg:items-start lg:text-left">
         <div className="relative z-40 mb-6 h-40 w-40">
           <Image
             src="/headshot.jpg"
@@ -113,8 +113,8 @@ export default function LeftColumn() {
           AI & Automation Consultant
         </h2>
         <p className="mt-4 max-w-xs leading-normal">
-          I help businesses unlock new value with AI, cloud infrastructure, and
-          modern software.
+          I help businesses unlock new value with AI, automation, and cloud
+          infrastructure.
         </p>
         <nav className="nav hidden lg:block" aria-label="In-page jump links">
           <ul className="mt-16 w-max">
@@ -146,7 +146,7 @@ export default function LeftColumn() {
           </ul>
         </nav>
       </div>
-      <ul className="ml-1 mt-8 flex items-center gap-5" aria-label="Social media">
+      <ul className="ml-1 mt-8 flex items-center justify-center gap-5 lg:justify-start" aria-label="Social media">
         {socials.map((social) => (
           <li key={social.label} className="shrink-0 text-xs">
             <a

@@ -13,13 +13,13 @@ export default function About() {
       <div className="space-y-4">
         <p>
           I&apos;m a full-stack engineer and AI consultant with 8+ years of
-          experience building production systems for some of the most demanding
-          environments in finance, aerospace, and automotive. I&apos;ve led
-          cloud infrastructure at a $10B+ asset manager, built automation
-          platforms processing thousands of daily integrations, and shipped AI
-          tools that achieved{" "}
-          <span className="text-slate-200">80% user adoption</span> across an
-          entire organization.
+          experience building production systems for demanding environments in
+          finance, automotive, and aerospace. I&apos;ve held versatile roles
+          spanning automation, DevOps, web and mobile development, cloud
+          infrastructure management, and network security. I&apos;ve been part
+          of skilled teams at a $10B+ asset manager, built automation platforms
+          for public companies, and shipped AI tools that achieved{" "}
+          <span className="text-slate-200">enterprise-wide adoption</span>.
         </p>
         <p>
           Now, through{" "}
@@ -40,8 +40,8 @@ export default function About() {
         </p>
         <p>
           Currently, I&apos;m building products and consulting with clients
-          across the globe &mdash; from the diamond industry in Asia to wedding
-          technology in India &mdash; while traveling internationally as a
+          across the globe &mdash; from the diamond industry in New York to wedding
+          technology in Asia &mdash; while traveling internationally as a
           digital nomad.
         </p>
       </div>
