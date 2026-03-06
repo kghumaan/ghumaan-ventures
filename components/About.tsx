@@ -33,17 +33,17 @@ export default function About() {
         <p>
           I&apos;m AI-forward in everything I build. Every solution I deliver
           leverages the latest in LLMs, automation frameworks, and cloud-native
-          architecture &mdash; not because it&apos;s trendy, but because it
+          architecture - not because it&apos;s trendy, but because it
           delivers measurably better outcomes. I stay obsessively up to speed on
           the latest tools, models, and best practices so my clients don&apos;t
           have to.
         </p>
-        <p>
+        {/* <p>
           Currently, I&apos;m building products and consulting with clients
-          across the globe &mdash; from the diamond industry in New York to wedding
-          technology in Asia &mdash; while traveling internationally as a
+          across the globe - from the diamond industry in New York to wedding
+          technology in Asia - while traveling internationally as a
           digital nomad.
-        </p>
+        </p> */}
       </div>
     </section>
   );

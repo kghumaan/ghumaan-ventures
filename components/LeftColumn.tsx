@@ -116,6 +116,14 @@ export default function LeftColumn() {
           I help businesses unlock new value with AI, automation, and cloud
           infrastructure.
         </p>
+        <a
+          className="mt-6 inline-block rounded-lg bg-teal-300 px-6 py-3 text-sm font-semibold text-slate-950 transition-all hover:bg-teal-400 hover:shadow-[0_0_30px_rgba(94,234,212,0.3)] focus-visible:bg-teal-400"
+          href="https://cal.com/ghumaan-ventures/30min"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Book a Discovery Call
+        </a>
         <nav className="nav hidden lg:block" aria-label="In-page jump links">
           <ul className="mt-16 w-max">
             {navItems.map((item) => (

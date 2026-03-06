@@ -2,11 +2,11 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "KV Ghumaan — AI & Automation Consultant | Ghumaan Ventures",
+  title: "KV Ghumaan - AI & Automation Consultant | Ghumaan Ventures",
   description:
     "I help businesses unlock new value with AI, cloud infrastructure, and modern software. Book a free discovery call.",
   openGraph: {
-    title: "KV Ghumaan — AI & Automation Consultant | Ghumaan Ventures",
+    title: "KV Ghumaan - AI & Automation Consultant | Ghumaan Ventures",
     description:
       "I help businesses unlock new value with AI, cloud infrastructure, and modern software. Book a free discovery call.",
     type: "website",

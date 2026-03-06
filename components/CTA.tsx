@@ -10,7 +10,7 @@ export default function CTA() {
         </h3>
         <p className="mt-4 max-w-lg leading-relaxed lg:max-w-none">
           Whether you need AI automation, cloud infrastructure, a custom app, or
-          just want to explore what&apos;s possible &mdash; I&apos;d love to
+          just want to explore what&apos;s possible - I&apos;d love to
           hear about your project. Book a free 30-minute discovery call and
           let&apos;s talk.
         </p>

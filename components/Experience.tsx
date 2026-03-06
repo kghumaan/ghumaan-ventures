@@ -1,11 +1,11 @@
 const experiences = [
   {
-    date: "2025 — Present",
+    date: "2025 - Present",
     title: "Founder & Principal Consultant",
     company: "Ghumaan Ventures, LLC",
     url: "#",
     description:
-      "Building AI-powered systems and modern software for small and mid-market businesses across industries. Current engagements include an Android application for the diamond industry serving the Asian market, and Phera — an AI-forward destination wedding platform with WhatsApp automation for the Indian market.",
+      "Building AI-powered systems and modern software for small and mid-market businesses across industries. Current engagements include an Android application for the diamond industry serving the Asian market, and Phera - an AI-forward destination wedding platform with WhatsApp automation for the Indian market.",
     tags: [
       "Python",
       "React Native",
@@ -18,7 +18,7 @@ const experiences = [
     ],
   },
   {
-    date: "2024 — 2025",
+    date: "2024 - 2025",
     title: "Director, DevOps Engineer",
     company: "Perella Weinberg Partners",
     url: "https://www.pwpartners.com",
@@ -35,7 +35,7 @@ const experiences = [
     ],
   },
   {
-    date: "2019 — 2024",
+    date: "2019 - 2024",
     title: "Senior Engineer, DevOps",
     company: "Ares Management",
     url: "https://www.aresmgmt.com",
@@ -53,7 +53,7 @@ const experiences = [
     ],
   },
   {
-    date: "2018 — 2019",
+    date: "2018 - 2019",
     title: "Software Engineer",
     company: "General Motors",
     url: "https://www.gm.com",
