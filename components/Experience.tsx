@@ -3,7 +3,7 @@ const experiences = [
     date: "2025 - Present",
     title: "Founder & Principal Consultant",
     company: "Ghumaan Ventures, LLC",
-    url: "#",
+    url: null,
     description:
       "Building AI-powered systems and modern software for small and mid-market businesses across industries. Current engagements include an Android application for the diamond industry serving the Asian market, and Phera - an AI-forward destination wedding platform with WhatsApp automation for the Indian market.",
     tags: [
@@ -23,7 +23,7 @@ const experiences = [
     company: "Perella Weinberg Partners",
     url: "https://www.pwpartners.com",
     description:
-      'Architected "Nexus", an end-to-end identity lifecycle platform that eliminated a proposed $500K/18-month external project, delivering in 6 months. Built "TeamsGPT", a self-hosted AI chatbot achieving 80% user adoption with hundreds of daily conversations. Partnered with SOX auditors and Big 4 firms to ensure regulatory compliance across all automation.',
+      'Architected "Nexus", an end-to-end identity lifecycle platform for HR that eliminated a proposed $500K/18-month external project, delivering in 6 months. Maintained "TeamsGPT", a self-hosted AI chatbot with hundreds of daily conversations. Partnered with the network security team to privatize all network access and ensure industry best practices for authentication and network traffic.',
     tags: [
       "Azure Functions",
       "Cosmos DB",
@@ -40,7 +40,7 @@ const experiences = [
     company: "Ares Management",
     url: "https://www.aresmgmt.com",
     description:
-      'Led "Ares-Middleware", a Python automation platform hosting thousands of integrations across HR, Financial Systems, and Investment teams. Managed a team of 4 engineers. Migrated platform from on-premises to Azure Kubernetes Service achieving 90% reduction in downtime and 2x deployment speed. Built data lake ingesting gigabytes of daily data for executive PowerBI dashboards.',
+      'Led "Ares-Middleware", a Python automation platform hosting thousands of integrations across HR, Corporate Finance, HR, and Investment teams. Managed a team of 4 engineers across the globe. Migrated platform from on-premises to Azure Kubernetes Service achieving 98% reduction in downtime and 2x deployment speed. Built data lake ingesting gigabytes of daily data for executive PowerBI dashboards.',
     tags: [
       "Python",
       "Azure",
