@@ -3,63 +3,31 @@ const services = [
     title: "AI & Business Automation",
     description:
       "I find the repetitive, manual work your team hates and build AI-powered systems that handle it. Chatbots, document processing, workflow automation, AI agents - designed to create real operational value.",
-    tags: [
-      "Claude",
-      "OpenAI",
-      "Grok",
-      "Qwen",
-      "n8n",
-      "Zapier",
-      "Chatbots",
-      "Agents",
-    ],
+    tags: ["Claude", "OpenAI", "n8n", "Agents", "Chatbots"],
   },
   {
     title: "Cloud Infrastructure & Migration",
     description:
       "Move to the cloud without the chaos. I design, build, and optimize cloud environments - from initial migration to CI/CD pipelines to cost optimization that typically saves 20-40%.",
-    tags: [
-      "Azure",
-      "AWS",
-      "GCP",
-      "Docker",
-      "Kubernetes",
-      "Terraform",
-      "CI/CD",
-    ],
+    tags: ["Azure", "AWS", "Kubernetes", "Terraform", "CI/CD"],
   },
   {
     title: "Full-Stack Web Development",
     description:
       "Custom web applications, SaaS platforms, internal tools, and dashboards - from concept to production. Clean architecture, modern frameworks, and code that ships.",
-    tags: [
-      "Python",
-      "FastAPI",
-      "Next.js",
-      "React",
-      "Node.js",
-      "TypeScript",
-      "PostgreSQL",
-    ],
+    tags: ["TypeScript", "Next.js", "Python", "FastAPI", "PostgreSQL"],
   },
   {
     title: "Mobile App Development",
     description:
       "Native and cross-platform mobile apps for iOS and Android. From consumer-facing products to enterprise mobile solutions and app store deployment.",
-    tags: ["iOS", "Android", "React Native", "Swift", "Kotlin", "Flutter"],
+    tags: ["React Native", "iOS", "Android", "Swift"],
   },
   {
     title: "Data Engineering & Analytics",
     description:
       "Turn your data mess into decisions. I build pipelines, warehouses, and BI dashboards - plus the data architecture that makes AI actually work.",
-    tags: [
-      "Snowflake",
-      "Databricks",
-      "Apache Kafka",
-      "PowerBI",
-      "SQL Server",
-      "Python",
-    ],
+    tags: ["Snowflake", "Databricks", "PowerBI", "Python", "SQL Server"],
   },
 ];
 

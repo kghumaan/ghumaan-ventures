@@ -5,16 +5,17 @@ const experiences = [
     company: "Ghumaan Ventures, LLC",
     url: null,
     description:
-      "Building AI-powered systems and modern software for small and mid-market businesses across industries. Current engagements include an Android application for the diamond industry serving the Asian market, and Phera - an AI-forward destination wedding platform with WhatsApp automation for the Indian market.",
+      "Building AI-powered systems and modern software for small and mid-market businesses. Current work spans Lobstir (lobstir.ai), a multi-tenant AI agent orchestration platform built on the OpenClaw security model, and Phera (phera.io), an AI-forward destination wedding platform with WhatsApp automation for the Indian market. Active consulting engagement: Terracor, a mobile application for the diamond industry serving the Asian market.",
     tags: [
-      "Python",
-      "React Native",
       "TypeScript",
+      "React Native",
+      "Python",
       "Azure",
       "Supabase",
       "WhatsApp API",
       "OpenAI",
       "Claude API",
+      "Docker",
     ],
   },
   {
@@ -40,7 +41,7 @@ const experiences = [
     company: "Ares Management",
     url: "https://www.aresmgmt.com",
     description:
-      'Led "Ares-Middleware", a Python automation platform hosting thousands of integrations across HR, Corporate Finance, HR, and Investment teams. Managed a team of 4 engineers across the globe. Migrated platform from on-premises to Azure Kubernetes Service achieving 98% reduction in downtime and 2x deployment speed. Built data lake ingesting gigabytes of daily data for executive PowerBI dashboards.',
+      'Built "Ares-Middleware", a Python automation platform powering integrations across 20+ internal systems spanning HR, Corporate Finance, and Investment teams. Tech-led a team of 4 engineers across the globe. Migrated platform from on-premises to Azure Kubernetes Service, achieving 90% reduction in downtime and 2x deployment speed. Built data lake ingesting gigabytes of daily data for executive PowerBI dashboards.',
     tags: [
       "Python",
       "Azure",

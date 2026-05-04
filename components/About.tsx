@@ -12,29 +12,27 @@ export default function About() {
       </div>
       <div className="space-y-4">
         <p>
-          I&apos;m a full-stack engineer and AI consultant with 8+ years of
-          experience building production systems for demanding environments in
-          finance, automotive, and aerospace. I&apos;ve held versatile roles
-          spanning automation, DevOps, web and mobile development, cloud
-          infrastructure management, and network security. I&apos;ve been part
-          of skilled teams at a $10B+ asset manager, built automation platforms
-          for public companies, and shipped AI tools that achieved{" "}
-          <span className="text-slate-200">enterprise-wide adoption</span>.
+          I&apos;m a full-stack engineer and founder with 8+ years building
+          production systems in finance and automotive. I&apos;ve held versatile
+          roles spanning automation, DevOps, web and mobile development, cloud
+          infrastructure, and network security. I&apos;ve been part of skilled
+          teams at a $10B+ asset manager, built automation platforms for public
+          companies, and shipped AI tools that achieved{" "}
+          <span className="text-slate-200">firm-wide adoption</span>.
         </p>
         <p>
-          Now, through{" "}
+          Through{" "}
           <span className="text-slate-200">Ghumaan Ventures, LLC</span>, I work
-          directly with small and mid-market businesses to modernize their
-          operations. My clients are companies with 1&ndash;500 employees who know
-          they need to leverage AI and modern technology but don&apos;t have the
-          internal expertise to do it right. I bring enterprise-grade thinking
-          without the enterprise price tag.
+          with small and mid-market businesses to modernize their operations.
+          My clients are companies with 1&ndash;500 employees who know they need
+          to leverage AI and modern technology but don&apos;t have the internal
+          expertise to do it right. I bring enterprise-grade thinking without
+          the enterprise price tag.
         </p>
         <p>
-          I&apos;m AI-forward in everything I build. Every solution I deliver
-          leverages the latest in LLMs, automation frameworks, and cloud-native
-          architecture - not because it&apos;s trendy, but because it
-          delivers measurably better outcomes. I stay obsessively up to speed on
+          Every system I ship uses LLMs, agents, or modern automation where
+          they actually move the needle - not because it&apos;s trendy, but
+          because it delivers measurably better outcomes. I stay up to speed on
           the latest tools, models, and best practices so my clients don&apos;t
           have to.
         </p>
