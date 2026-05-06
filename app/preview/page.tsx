@@ -11,10 +11,13 @@ export default function Preview() {
 
   useEffect(() => {
     const mq = window.matchMedia("(hover: hover)");
-    setHasMouse(mq.matches);
+    const t = setTimeout(() => setHasMouse(mq.matches), 0);
     const h = (e: MouseEvent) => setMouse({ x: e.clientX, y: e.clientY });
     window.addEventListener("mousemove", h);
-    return () => window.removeEventListener("mousemove", h);
+    return () => {
+      clearTimeout(t);
+      window.removeEventListener("mousemove", h);
+    };
   }, []);
 
   return (
