@@ -1,7 +1,7 @@
 import Image from "next/image";
 
 const LINKS = {
-  linkedin: "https://www.linkedin.com/in/kv-ghumaan-132863a3/",
+  linkedin: "https://www.linkedin.com/in/kvghumaan/",
   github: "https://github.com/kghumaan",
   email: "kv@ghumaanventures.com",
   cal: "https://cal.com/ghumaan-ventures/30min",
