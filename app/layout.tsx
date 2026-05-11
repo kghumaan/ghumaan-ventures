@@ -1,15 +1,14 @@
 import type { Metadata } from "next";
 import "./globals.css";
-import "./terminal.css";
 
 export const metadata: Metadata = {
-  title: "KV Ghumaan - AI & Automation Consultant | Ghumaan Ventures",
+  title: "KV Ghumaan — Founder & Engineer",
   description:
-    "I help businesses unlock new value with AI, cloud infrastructure, and modern software. Book a free discovery call.",
+    "Founder & engineer building AI agents, cloud infrastructure, and modern software through Ghumaan Ventures.",
   openGraph: {
-    title: "KV Ghumaan - AI & Automation Consultant | Ghumaan Ventures",
+    title: "KV Ghumaan — Founder & Engineer",
     description:
-      "I help businesses unlock new value with AI, cloud infrastructure, and modern software. Book a free discovery call.",
+      "Founder & engineer building AI agents, cloud infrastructure, and modern software through Ghumaan Ventures.",
     type: "website",
   },
 };
@@ -29,11 +28,11 @@ export default function RootLayout({
           crossOrigin="anonymous"
         />
         <link
-          href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600;700&display=swap"
+          href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
           rel="stylesheet"
         />
       </head>
-      <body className="antialiased leading-relaxed">{children}</body>
+      <body className="antialiased">{children}</body>
     </html>
   );
 }

@@ -1,5 +1,5 @@
-import TerminalLanding from "@/components/TerminalLanding";
+import MinimalLanding from "@/components/MinimalLanding";
 
 export default function Home() {
-  return <TerminalLanding />;
+  return <MinimalLanding />;
 }
